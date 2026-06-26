@@ -21,7 +21,7 @@ const AdminSidebar = () => {
         <div className="inline-flex h-full flex-col gap-5 border-r border-slate-200 sm:min-w-60">
             <div className="flex flex-col gap-3 justify-center items-center pt-8 max-sm:hidden">
                 <Image className="w-14 h-14 rounded-full" src={assets.gs_logo} alt="" width={80} height={80} />
-                <p className="text-slate-700">Hi, GreatStack</p>
+                <p className="text-slate-700 font-medium">Hi, Juttu Vijay Kumar</p>
             </div>
 
             <div className="max-sm:mt-6">
