@@ -5,6 +5,9 @@
     An open-source multi-vendor e-commerce platform built with Next.js and Tailwind CSS.
   </p>
   <p>
+    🚀 <strong>Live Demo:</strong> <a href="https://gadget-galaxy-277qgc6et-juttuvijayks-projects.vercel.app/" target="_blank">gadget-galaxy-277qgc6et-juttuvijayks-projects.vercel.app</a>
+  </p>
+  <p>
     <a href="https://github.com/JuttuVijayKumar/GadgetGalaxy/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/JuttuVijayKumar/GadgetGalaxy?style=for-the-badge" alt="License"></a>
     <a href="https://github.com/JuttuVijayKumar/GadgetGalaxy/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"></a>
     <a href="https://github.com/JuttuVijayKumar/GadgetGalaxy/issues"><img src="https://img.shields.io/github/issues/JuttuVijayKumar/GadgetGalaxy?style=for-the-badge" alt="GitHub issues"></a>
